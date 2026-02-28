@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Namu",
+  "base_artist": "Sable Hills",
+  "createdAt": "2026-02-28T08:12:28.613147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NAMU",
+      "artist": "Mino",
+      "has_synced": true,
+      "path": "select/01_NAMU_Mino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Namu",
+      "artist": "Antti Tuisku",
+      "has_synced": false,
+      "path": "select/02_Namu_Antti_Tuisku.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Namu",
+      "artist": "Sin Boy",
+      "has_synced": false,
+      "path": "select/03_Namu_Sin_Boy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mes Neturime Namų",
+      "artist": "shyza",
+      "has_synced": true,
+      "path": "select/04_Mes_Neturime_Namų_shyza.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Namu",
+      "artist": "Sable Hills",
+      "has_synced": false,
+      "path": "select/pl_01_Namu_Sable_Hills.txt"
+    }
+  ]
+}
